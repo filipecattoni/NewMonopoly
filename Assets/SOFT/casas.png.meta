@@ -1,0 +1,934 @@
+fileFormatVersion: 2
+guid: d565606c3b1d9734e9a827ed14cdaffb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: casas_0
+    21300002: casas_1
+    21300004: casas_2
+    21300006: casas_3
+    21300008: casas_4
+    21300010: casas_5
+    21300012: casas_6
+    21300014: casas_7
+    21300016: casas_8
+    21300018: casas_9
+    21300020: casas_10
+    21300022: casas_11
+    21300024: casas_12
+    21300026: casas_13
+    21300028: casas_14
+    21300030: casas_15
+    21300032: casas_16
+    21300034: casas_17
+    21300036: casas_18
+    21300038: casas_19
+    21300040: casas_20
+    21300042: casas_21
+    21300044: casas_22
+    21300046: casas_23
+    21300048: casas_24
+    21300050: casas_25
+    21300052: casas_26
+    21300054: casas_27
+    21300056: casas_28
+    21300058: casas_29
+    21300060: casas_30
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: casas_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 500
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e22cc8fe7006f041a7529aa24908528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bd2f558f0a0f341b842977375152e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6b375e2f7aeef418eddbc21eb665b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615e30e7a5554f0439b0c0ede6e53ba0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17b720345933a048875b77e0dbd4b1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 400
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6deb29b345270a3499976e8a662fa508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 400
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7012f8f9460f024448cd43acd073daff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 400
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c5d487fecbbee4d93a5972c2903212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_8
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 400
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eb02a634aaf95499f8c566219fa87b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_9
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 400
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1043a17b6ddb74fbc1524557c57acc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 300
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37a6129bca25c742b5b83e8fc5c7352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 300
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dfe34a72b2714449e180b90a60e881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 300
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3a000c07fec4c4ea481f2ed077a659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_13
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 300
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5607b3e440e994983b05dcb5c12fb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_14
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 300
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb5b804d38956046a489438fbd66dc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_15
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 300
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfdde9261697fe48a74a7ea5ea98e8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 200
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc419f9d492df3479cad67cadb90bba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_17
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 200
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d86375231bea1b458887465b6c30066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_18
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 200
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63021466c00ee3a4699990ea84b293d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_19
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 200
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dceb6947d3c2144a8660b6f517faac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_20
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 200
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e944f1e821160e4888a982149c836b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_21
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 200
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e2173b9a56d3c45aeaab9ebcb420c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 100
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13469b1429ce68445aacbd4c308db27f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_23
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 100
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd299c9cab47914c87ca1656e268dcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_24
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 100
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ec27776aaf5b245b3e47eac61c1f42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_25
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 100
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53fc558e23fc034f85cdd9b67682fb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_26
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 100
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce83b283a74434a40a355ffac8f0d2bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_27
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 100
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67054503a3e1f744cb0d09e42e2aa791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20aa3d2a6e71c874aac84c477028d49b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_29
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef80677541e97324eba4e612c0e1348e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas_30
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fda37fbf9cb62489310f1f5086dd5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -198, y: 100}
+      - {x: -198, y: 198}
+      - {x: -187, y: 198}
+      - {x: -187, y: -300}
+      - {x: -113, y: -300}
+      - {x: -113, y: 198}
+      - {x: -100, y: 198}
+      - {x: -98, y: 200}
+      - {x: -98, y: 299}
+      - {x: -99, y: 300}
+      - {x: -201, y: 300}
+      - {x: -202, y: 299}
+      - {x: -202, y: 201}
+      - {x: -213, y: 201}
+      - {x: -213, y: 300}
+      - {x: -287, y: 300}
+      - {x: -287, y: 201}
+      - {x: -300, y: 201}
+      - {x: -300, y: 98}
+      - {x: -287, y: 98}
+      - {x: -287, y: -300}
+      - {x: -213, y: -300}
+      - {x: -213, y: 98}
+      - {x: -200, y: 98}
+    - - {x: -87, y: 199}
+      - {x: -87, y: -300}
+      - {x: -13, y: -300}
+      - {x: -13, y: 199}
+      - {x: -15, y: 201}
+      - {x: -85, y: 201}
+    - - {x: 102, y: 200}
+      - {x: 102, y: 299}
+      - {x: 101, y: 300}
+      - {x: -1, y: 300}
+      - {x: -2, y: 299}
+      - {x: -2, y: 200}
+      - {x: 0, y: 198}
+      - {x: 13, y: 198}
+      - {x: 13, y: -200}
+      - {x: 15, y: -202}
+      - {x: 85, y: -202}
+      - {x: 87, y: -200}
+      - {x: 87, y: 198}
+      - {x: 100, y: 198}
+    - - {x: 115, y: 201}
+      - {x: 113, y: 199}
+      - {x: 113, y: -200}
+      - {x: 115, y: -202}
+      - {x: 185, y: -202}
+      - {x: 187, y: -200}
+      - {x: 187, y: 199}
+      - {x: 185, y: 201}
+    - - {x: 287, y: 198}
+      - {x: 300, y: 198}
+      - {x: 300, y: 300}
+      - {x: 199, y: 300}
+      - {x: 198, y: 299}
+      - {x: 198, y: 200}
+      - {x: 200, y: 198}
+      - {x: 213, y: 198}
+      - {x: 213, y: -200}
+      - {x: 215, y: -202}
+      - {x: 285, y: -202}
+      - {x: 287, y: -200}
+    physicsShape:
+    - - {x: -300, y: 99}
+      - {x: -300, y: 199}
+      - {x: -199, y: 199}
+      - {x: -199, y: 99}
+    - - {x: -201, y: 199}
+      - {x: -201, y: 299}
+      - {x: -100, y: 299}
+      - {x: -100, y: 199}
+    - - {x: -1, y: 199}
+      - {x: 0, y: 300}
+      - {x: 100, y: 300}
+      - {x: 101, y: 199}
+    - - {x: 198, y: 200}
+      - {x: 198, y: 299}
+      - {x: 300, y: 299}
+      - {x: 300, y: 200}
+    - - {x: -184.67953, y: 100.03052}
+      - {x: -184.67953, y: 199.26321}
+      - {x: -114.599945, y: 199.26321}
+      - {x: -114.599945, y: 100.03052}
+    - - {x: -85.16652, y: 100.03052}
+      - {x: -85.16652, y: 199.82385}
+      - {x: -14.80661, y: 199.82385}
+      - {x: -14.80661, y: 100.03052}
+    - - {x: 14.346497, y: 99.75018}
+      - {x: 14.346497, y: 199.26321}
+      - {x: 85.82767, y: 199.26321}
+      - {x: 85.82767, y: 99.75018}
+    - - {x: 114.94574, y: 100.03052}
+      - {x: 114.94574, y: 199.82385}
+      - {x: 185.86627, y: 199.82385}
+      - {x: 185.86627, y: 100.03052}
+    - - {x: 214.45874, y: 99.75018}
+      - {x: 214.73907, y: 199.82385}
+      - {x: 285.6596, y: 199.82385}
+      - {x: 285.6596, y: 100.03052}
+    - - {x: -285.76257, y: 0.0046691895}
+      - {x: -285.76257, y: 99.80859}
+      - {x: -214.63794, y: 99.80859}
+      - {x: -214.63794, y: 0.0046691895}
+    - - {x: -185.67188, y: -0.282135}
+      - {x: -185.67188, y: 99.235016}
+      - {x: -114.834015, y: 99.235016}
+      - {x: -114.834015, y: -0.282135}
+    - - {x: -85.00755, y: -0.282135}
+      - {x: -85.00755, y: 99.52182}
+      - {x: -14.456512, y: 99.52182}
+      - {x: -14.456512, y: -0.282135}
+    - - {x: 14.098907, y: -0.26687622}
+      - {x: 14.098907, y: 100.22696}
+      - {x: 85.00244, y: 99.73163}
+      - {x: 86.4884, y: -0.26687622}
+    - - {x: 114.761444, y: 0.00024414062}
+      - {x: 114.761444, y: 99.18567}
+      - {x: 185.11102, y: 99.18567}
+      - {x: 185.11102, y: 0.00024414062}
+    - - {x: 214.85303, y: -100.18974}
+      - {x: 214.85303, y: -1.2635803}
+      - {x: 285.24878, y: -1.2635803}
+      - {x: 285.24878, y: -100.18974}
+    - - {x: 114.75659, y: -100.09009}
+      - {x: 114.68643, y: -0.9534607}
+      - {x: 185.08218, y: -0.9534607}
+      - {x: 185.15234, y: -100.09009}
+    - - {x: 13.899628, y: -100.18974}
+      - {x: 15.140076, y: -0.6433716}
+      - {x: 85.22568, y: -0.6433716}
+      - {x: 86.466125, y: -100.49985}
+    - - {x: -85.26424, y: -100.10269}
+      - {x: -85.26424, y: -0.57333374}
+      - {x: -14.762756, y: -0.57333374}
+      - {x: -14.762756, y: -100.10269}
+    - - {x: -185.63925, y: -100.052155}
+      - {x: -185.63925, y: 0.62158203}
+      - {x: -114.83902, y: 0.62158203}
+      - {x: -113.94281, y: -100.64963}
+    - - {x: -286.6959, y: -100.052155}
+      - {x: -285.79968, y: -1.1708069}
+      - {x: -213.80452, y: -1.1708069}
+      - {x: -214.10326, y: -100.052155}
+    - - {x: -285.3601, y: -200.26883}
+      - {x: -285.61804, y: -100.75801}
+      - {x: -214.50415, y: -100.75801}
+      - {x: -214.28229, y: -199.99707}
+    - - {x: -185.31866, y: -200.23526}
+      - {x: -185.31866, y: -100.55249}
+      - {x: -114.821365, y: -100.55249}
+      - {x: -114.821365, y: -200.23526}
+    - - {x: -85.45586, y: -199.9524}
+      - {x: -85.88376, y: -101.41629}
+      - {x: -13.306091, y: -100.62164}
+      - {x: -14.691681, y: -199.55841}
+    - - {x: 14.5065, y: -201.01192}
+      - {x: 14.5065, y: -101.15141}
+      - {x: 86.55441, y: -101.15141}
+      - {x: 86.55438, y: -201.01192}
+    - - {x: 114.67966, y: -200.28775}
+      - {x: 114.67966, y: -100.55379}
+      - {x: 186.52194, y: -100.55379}
+      - {x: 186.52194, y: -200.28775}
+    - - {x: 214.83624, y: -201.76688}
+      - {x: 214.83624, y: -100.97638}
+      - {x: 286.67847, y: -100.97638}
+      - {x: 286.67847, y: -201.76688}
+    - - {x: -285.22775, y: -299.97986}
+      - {x: -285.4507, y: -201.0451}
+      - {x: -214.86038, y: -201.0451}
+      - {x: -215.08334, y: -299.75687}
+    - - {x: -185.13177, y: -299.92065}
+      - {x: -185.13177, y: -200.91959}
+      - {x: -114.578125, y: -201.15875}
+      - {x: -114.56625, y: -300}
+    - - {x: -84.98717, y: -300}
+      - {x: -85.37633, y: -200.91452}
+      - {x: -14.599884, y: -200.91452}
+      - {x: -14.599884, y: -300}
+    - - {x: 214.88037, y: -0.059020996}
+      - {x: 214.66046, y: 99.54401}
+      - {x: 285.26526, y: 99.51367}
+      - {x: 285.0255, y: -0.059020996}
+    bones: []
+    spriteID: e9f748c961e3a0e48b4bb1fb69013022
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
